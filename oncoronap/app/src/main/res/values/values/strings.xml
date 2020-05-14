@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">coronapp</string>
+
+    <string name="country">Brasil</string>
+    <string name="city">Porto Alegre</string>
+    <string name="state">RS</string>
+
+    <string name="confirmedcases">Casos <b>confirmados</b>:</string>
+    <string name="suspectcases">Casos <b>suspeitos</b>:</string>
+    <string name="deathtoll">Óbitos:</string>
+    <string name="healed"><b>Curados</b>:</string>
+    <string name="title_activity_blue">BlueActivity</string>
+
+    <string name="selectCapital">Selecione a capital</string>
+    <string name="title_activity_pink">PinkActivity</string>
+
+</resources>
