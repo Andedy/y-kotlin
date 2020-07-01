@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">The Cryps</string>
+
+    <string-array name="coin">
+        <item>Bitcoin</item>
+        <item>Litecoin</item>
+        <item>BCash</item>
+        <item>XRP (Ripple)</item>
+        <item>Ethereum</item>
+        <item>USD Coin</item>
+    </string-array>
+    <string name="valor">Valor:</string>
+    <string name="name">Nome:</string>
+    <string name="qtd">Quantidade:</string>
+    <string name="dataCompra">Data da compra:</string>
+    <string name="variacao">Variação:</string>
+    <string name="lucro">Lucro:</string>
+    <string name="remove">Remover</string>
+    <string name="valorMoeda">Valor da moeda:</string>
+    <string name="data">Data:</string>
+    <string name="buy">Comprar</string>
+    <string name="addMoeda">Adicionar Moeda</string>
+    <string name="listMoeda">Lista de moedas</string>
+    <string name="escolha">Escolha uma moeda</string>
+    <string name="abrevia_o">abreviação</string>
+    <string name="coin_name">Coin name</string>
+    <string name="crypt">Crypt</string>
+    <string name="info">Info</string>
+    <string name="image_of_a_coin">image of a coin</string>
+</resources>
