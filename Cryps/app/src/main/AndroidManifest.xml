@@ -16,11 +16,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.AtivoCompradoActivity"
+        <activity android:name=".activities.CoinInfoActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
-        <activity android:name=".activity.ListComprasActivity"
+        <activity android:name=".activities.ListCoinsActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity android:name=".activity.CompraCoinActivity"
+        <activity android:name=".activities.BuyActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
@@ -32,7 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.AddCoinActivity"
+        <activity android:name=".activities.AddCoinActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     </application>
 

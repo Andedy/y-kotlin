@@ -4,8 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import br.com.cryps.activity.AddCoinActivity
-import br.com.cryps.activity.ListComprasActivity
+import br.com.cryps.activities.AddCoinActivity
+import br.com.cryps.activities.ListCoinsActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 
@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
 
         btnListCompra.setOnClickListener(View.OnClickListener {
-            val intent = Intent(this, ListComprasActivity::class.java)
+            val intent = Intent(this, ListCoinsActivity::class.java)
             startActivity(intent)
         })
 
